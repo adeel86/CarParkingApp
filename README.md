@@ -1,3 +1,4 @@
+# Car Parking App
 ### Separation of Concerns:
 - The code follows the principle of separation of concerns by dividing the application into packages based on functionality (**model**, **service**, **dao**, **exception**, **test**).
 - Each class has a specific responsibility, making the code modular and easier to maintain.
